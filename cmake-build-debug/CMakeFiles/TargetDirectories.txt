@@ -1,3 +1,0 @@
-/Users/mdn/Desktop/c++_nu_projects/basic_sampler/cmake-build-debug/CMakeFiles/basic_sampler.dir
-/Users/mdn/Desktop/c++_nu_projects/basic_sampler/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mdn/Desktop/c++_nu_projects/basic_sampler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

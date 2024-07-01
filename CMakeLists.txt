@@ -12,7 +12,6 @@ set(SOURCES
         src/main.cpp
         src/SamplerAU.cpp
         src/SamplerAU.h
-        SamplerAU.cpp
 )
 
 # Add the executable
