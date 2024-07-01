@@ -12,11 +12,12 @@ set(SOURCES
         src/main.cpp
         src/SamplerAU.cpp
         src/SamplerAU.h
-        SamplerAU.h
+        SamplerAU.cpp
 )
 
 # Add the executable
-add_executable(SamplerAU ${SOURCES})
+add_executable(SamplerAU ${SOURCES}
+)
 
 # Link the frameworks
 target_link_libraries(SamplerAU ${AUDIOTOOLBOX} ${COREAUDIO})
