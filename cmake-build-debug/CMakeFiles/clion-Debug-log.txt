@@ -1,0 +1,13 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/mdn/Desktop/c++_nu_projects/basic_sampler -B /Users/mdn/Desktop/c++_nu_projects/basic_sampler/cmake-build-debug
+-- Configuring done (0.1s)
+CMake Error at CMakeLists.txt:19 (add_executable):
+  Cannot find source file:
+
+    src/main.cpp
+
+
+CMake Error at CMakeLists.txt:19 (add_executable):
+  No SOURCES given to target: SamplerAU
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
